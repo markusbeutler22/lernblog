@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Markus Beutler"
-image = ""
+image = "/media/portrait.png"
 email = ""
 +++
