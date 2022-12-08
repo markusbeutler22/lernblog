@@ -1,6 +1,6 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
+icon = "/media/picography-cold-winter-road-and-sky.jpg"
 logo = "/media/picography-cold-winter-road-and-sky.jpg"
 image = "/media/picography-cold-winter-road-and-sky.jpg"
 color = "#5d9fbd"
