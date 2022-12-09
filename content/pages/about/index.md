@@ -4,10 +4,10 @@ draft = false
 image = "portrait.png"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](portrait.png)
 
-## My Name
+## Markus Beutler
 
-mail@example.org
+markus.beutler@gymkirchenfeld.ch
 
 Here should be some info about me...
